@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignorar datos locales del proyecto, adscritos a StatsBomb o al curso de FBD
