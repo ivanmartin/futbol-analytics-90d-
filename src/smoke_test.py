@@ -27,3 +27,4 @@ ax.set_title(f"{match.home_team} vs {match.away_team} · tiros (tamaño = xG)")
 fig.text(0.99, 0.01, "Data: StatsBomb", ha="right", fontsize=8)
 fig.savefig("figures/00_smoke_test.png", dpi=150, bbox_inches="tight")
 print("OK: figures/00_smoke_test.png")
+
