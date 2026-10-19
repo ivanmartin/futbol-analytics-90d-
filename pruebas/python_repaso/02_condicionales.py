@@ -6,7 +6,7 @@ else:
     if x_G > 0.3:
         print("Ocasión clara")
 
-    elif x_G >=0.1:
+    elif x_G >= 0.1:
         print("Ocasión media")
 
     else:
